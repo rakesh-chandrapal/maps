@@ -76,7 +76,7 @@ packages:
     source: hosted
     version: "0.2.1"
   mapbox_gl_platform_interface:
-    dependency: "direct overridden"
+    dependency: "direct main"
     description:
       path: mapbox_gl_platform_interface
       ref: custom-branch
@@ -85,7 +85,7 @@ packages:
     source: git
     version: "0.16.0"
   mapbox_gl_web:
-    dependency: "direct overridden"
+    dependency: "direct main"
     description:
       path: mapbox_gl_web
       ref: custom-branch
