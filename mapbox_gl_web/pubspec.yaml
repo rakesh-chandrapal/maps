@@ -1,8 +1,8 @@
 name: mapbox_gl_web
 description: Web platform implementation of mapbox_gl
 version: 0.16.0
-homepage: https://github.com/rakesh-chandrapal/maps/tree/custom-branch/mapbox_gl_web
-
+#homepage: https://github.com/rakesh-chandrapal/maps/tree/custom-branch/mapbox_gl_web
+homepage: https://github.com/tobrun/flutter-mapbox-gl
 flutter:
   plugin:
     platforms:
