@@ -9,10 +9,12 @@ dependencies:
   mapbox_gl_platform_interface:
     git:
       url: https://github.com/rakesh-chandrapal/maps.git
+      ref: custom-branch
       path: mapbox_gl_platform_interface
   mapbox_gl_web:
     git:
       url: https://github.com/rakesh-chandrapal/maps.git
+      ref: custom-branch
       path: mapbox_gl_web
   collection: ^1.15.0
 
